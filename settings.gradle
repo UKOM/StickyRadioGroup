@@ -1,0 +1,3 @@
+rootProject.name = "StickyRadioGroup"
+include ':sample'
+include ':library'
